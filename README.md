@@ -6,7 +6,7 @@ I traded the suit and briefcase to a nice computer and some cool technologies, t
 
 I am really good at:
 
-
+![Alt text](683-6834215_html-css-js-icon-hd-png-download.png 'HTML, CSS, JS')
 
 Here are some ideas to get you started:
 
@@ -18,4 +18,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
