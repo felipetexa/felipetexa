@@ -1,7 +1,12 @@
-### Hi there 👋
+### Welcome to my GitHub 👋
 
-<!--
-**felipetexa/felipetexa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an AI (Authentic Intelligence) machine, passionate about my children, sports and technology. After over 8 years in Public Service, working with legal matters and office management, I leaped into a new career, country and hemisphere.
+
+I traded the suit and briefcase to a nice computer and some cool technologies, to follow an old dream and be part of the exciting world of tech, as I’m working to sharp my web development skills since 2021.
+
+I am really good at:
+
+
 
 Here are some ideas to get you started:
 
@@ -13,4 +18,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
